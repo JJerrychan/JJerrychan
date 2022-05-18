@@ -6,7 +6,7 @@ Hi there 👋, I am Junjie Chen.
 - <a href="#">Resume</a> -
 </p>
 <p align="center">
-<a href="#">👨‍🎓 MSCS in Stevens Institute of Technology</a></p> <p align="center"> <a href="#">📍 New York City Metropolitan Area, US</a>
+<a href="https://www.stevens.edu/">👨‍🎓 MSCS in Stevens Institute of Technology</a></p> <p align="center"> <a href="#">📍 New York City Metropolitan Area, US</a>
 </p>
 
 <br />
