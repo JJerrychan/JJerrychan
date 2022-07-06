@@ -35,7 +35,7 @@ Hi there 👋, I am Junjie Chen.
   <a href="https://www.linkedin.com/in/jerrycc-/"><img src="https://img.icons8.com/clouds/50/000000/linkedin.png"/></a>
   <a href="https://www.instagram.com/chenjunjie96/"><img src="https://img.icons8.com/clouds/50/000000/instagram.png"/></a>
   <a href="#"><img src="https://img.icons8.com/clouds/50/000000/facebook.png"/></a>
-  <-<a href="#"><img src="https://img.icons8.com/clouds/50/000000/twitter.png"/></a>->
+  <-- <a href="#"><img src="https://img.icons8.com/clouds/50/000000/twitter.png"/></a> -->
 </p>
 
 <br />
