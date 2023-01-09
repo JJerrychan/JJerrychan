@@ -3,7 +3,7 @@ Hi there 👋, I am Junjie Chen.
 </h1>
 
 <p align="center">
-- <a href="https://drive.google.com/file/d/1--ocvUf_SrxD1jFK3jTm18tdGf_GQrPh/view?usp=sharing">Resume</a> -
+- <a href="https://drive.google.com/file/d/1-5WLkeyjSoa5SJYo6ZKCvD4gtlOU6pqh/view?usp=sharing">Resume</a> -
 </p>
 <p align="center">
 <a href="https://www.stevens.edu/">👨‍🎓 MSCS in Stevens Institute of Technology</a></p> <p align="center"> <a href="#">📍 New York City Metropolitan Area, US</a>
